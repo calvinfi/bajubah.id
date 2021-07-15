@@ -4,3 +4,5 @@ Website E-Commerce Fashion, menawarkan harga terbaik untuk anda
     - Anda dapat memesan secara online
     - Mudah diaplikasikan
     - Lengkap
+    - Murah
+    - Banyak ukuran
