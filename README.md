@@ -6,4 +6,3 @@ Website E-Commerce Fashion, menawarkan harga terbaik untuk anda
     - Lengkap
     - Murah
     - Banyak ukuran
-    - Jika barang habis bisa pre-order
