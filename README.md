@@ -1,2 +1,2 @@
 # bajubah.id
-Website Bajubah
+Website E-Commerce Fashion, menawarkan harga terbaik untuk anda
